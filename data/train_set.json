@@ -1,0 +1,21 @@
+[
+    {
+        "user_id": 1,
+        "exer_id": 2,
+        "score": 0.0,
+        "knowledge_code": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "user_id": 2,
+        "exer_id": 1,
+        "score": 1.0,
+        "knowledge_code": [
+            2,
+            3
+        ]
+    }
+]

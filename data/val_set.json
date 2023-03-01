@@ -1,0 +1,70 @@
+[
+    {
+        "user_id": 1,
+        "log_num": 4,
+        "logs": [
+            {
+                "exer_id": 1,
+                "score": 1.0,
+                "knowledge_code": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "exer_id": 3,
+                "score": 1.0,
+                "knowledge_code": [
+                    460,
+                    462
+                ]
+            },
+            {
+                "exer_id": 1667,
+                "score": 1.0,
+                "knowledge_code": [
+                    382,
+                    387,
+                    393,
+                    394,
+                    395
+                ]
+            },
+            {
+                "exer_id": 1532,
+                "score": 0.0,
+                "knowledge_code": [
+                    214
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 2,
+        "log_num": 3,
+        "logs": [
+            {
+                "exer_id": 1120,
+                "score": 1.0,
+                "knowledge_code": [
+                    363,
+                    365
+                ]
+            },
+            {
+                "exer_id": 159,
+                "score": 1.0,
+                "knowledge_code": [
+                    216
+                ]
+            },
+            {
+                "exer_id": 304,
+                "score": 0.0,
+                "knowledge_code": [
+                    230
+                ]
+            }
+        ]
+    }
+]
